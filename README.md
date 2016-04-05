@@ -5,7 +5,7 @@
 
 
 код:
-#include <iostream>
+[code]#include <iostream>
 #include <string>
 #include <windows.h>
 #include <cstring>
@@ -146,4 +146,4 @@ int main()
 	}
 	system("pause");
 	return 0;
-}
+}[/code]
